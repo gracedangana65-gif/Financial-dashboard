@@ -31,7 +31,7 @@ The dataset includes transaction-level financial data with the following key fie
 - Region
 - Date (Year, Quarter, Month)
 
-Time Period Covered: *(Insert Time Range)*
+
 
 ---
 
